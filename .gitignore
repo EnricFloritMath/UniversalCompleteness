@@ -1,0 +1,8 @@
+/.lake/
+**/.lake/
+*.olean
+*.ilean
+.DS_Store
+.proof-audit-tools/
+__pycache__/
+*.py[cod]

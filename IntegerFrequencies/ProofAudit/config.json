@@ -1,0 +1,14 @@
+{
+  "challenge_module": "ProofAudit.Challenge",
+  "solution_module": "ProofAudit.Solution",
+  "theorem_names": [
+    "ProofAudit.target_integer_frequencies_higher_dimension_basic"
+  ],
+  "definition_names": [],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ],
+  "enable_nanoda": true
+}
